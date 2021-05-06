@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">AndroidPF</string>
+
+    <?xml version="1.0" encoding="utf-8"?>
+
+        <string-array name="movie_categories">
+            <item>Horror</item>
+            <item>Comedy</item>
+            <item>Scifi</item>
+            <item>Familly</item>
+            <item>Cartoon</item>
+            <item>Action</item>
+            <item>Documentary</item>
+        </string-array>
+
 </resources>
